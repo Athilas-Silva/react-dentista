@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-dentista/static/css/main.b2dd3fe7.chunk.css",
-    "main.js": "/react-dentista/static/js/main.c05ef5a5.chunk.js",
-    "main.js.map": "/react-dentista/static/js/main.c05ef5a5.chunk.js.map",
+    "main.js": "/react-dentista/static/js/main.b0a918be.chunk.js",
+    "main.js.map": "/react-dentista/static/js/main.b0a918be.chunk.js.map",
     "runtime-main.js": "/react-dentista/static/js/runtime-main.78f86a79.js",
     "runtime-main.js.map": "/react-dentista/static/js/runtime-main.78f86a79.js.map",
     "static/js/2.337d6838.chunk.js": "/react-dentista/static/js/2.337d6838.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.78f86a79.js",
     "static/js/2.337d6838.chunk.js",
     "static/css/main.b2dd3fe7.chunk.css",
-    "static/js/main.c05ef5a5.chunk.js"
+    "static/js/main.b0a918be.chunk.js"
   ]
 }
