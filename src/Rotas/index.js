@@ -7,7 +7,7 @@ import Agenda from "../paginas/Agenda";
 import Missao from "../paginas/Missao";
 
 const Rotas = () => (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
             <Route exact path="/" component={ Home } />
             <Route exact path="/contato" component={ Contato } />
