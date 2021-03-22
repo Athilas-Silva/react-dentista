@@ -11,7 +11,7 @@
  - Com hospedagem na [Netlify](https://www.netlify.com/)
 
 <h3 align="center">
-  ⚠️⚠️ Ao Clonar este repositório ⚠️⚠️
+  ⚠️⚠️ Ao clonar este repositório ⚠️⚠️
 </h3>
 
 - Abra o terminal e use o comando ```yarn``` para instalar suas dependências.
