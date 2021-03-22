@@ -1,0 +1,37 @@
+.parceiros-container{
+    padding-top: 90px;
+}
+
+.lista-parceiros{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.lista-parceiros li{
+    list-style: none;
+    max-width: 300px;
+    padding: 10px 20px;
+}
+
+.lista-parceiros li img{
+    width:  220px;
+    height: 189px;
+    border-radius: 30px;
+}
+
+.btn-contato{
+    border:  1px solid #1b3675;
+    border-radius: 3px;
+    padding:  10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    background-color: #1b3675;
+    color: white;
+}
+
+.btn-contato:hover{
+    box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.1);
+}
