@@ -21,13 +21,3 @@
 
 - [Consutório Odontológico](https://dentes-saudaveis.netlify.app/)
 ***
-
-<h3 align="center">
- ⚠️⚠️ ATENÇÃO ⚠️⚠️
-</h3>
-
-Este projeto possui deploy para o Github Pages, porém ele não carrega a página quando se acessa pelo link do Github, acredito que seja algum erro ou falta de algum recurso nas rotas, por ser uma ferramenta que ainda estou aprendendo seu uso, espero que brevemente eu possa retonar e corrigir este erro. Por isso recomendo seu acesso pelo link da Netlily.
-
-<p align="center">
- <strong>⚠️❌⚠️ Assim essa mensagem será retirada posteriormente ⚠️❌⚠️</strong>
-</p>
